@@ -70,5 +70,3 @@ The content of the script has been verified for correctness:
 ## 📜 License
 This tool is distributed under the **GPL version 2**. It is intended for **legal purposes only**. The user takes full responsibility for any actions performed using this tool.
 
----
-*Created with ❤️ by Antigravity for Kunal-D-Droid*
